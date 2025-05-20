@@ -1,0 +1,22 @@
+Universidad Tecnológica Nacional – Facultad Regional La Rioja
+Tecnicatura Universitaria en Programación
+Programación III
+Trabajo Práctico N.º 2
+Ramas en GIT y DOM
+-----------------------------------
+Profesor: Ing. Matias De la Puente 
+
+Alumno: Brizuela Jorge Francisco
+
+Ejercicio en Git
+
+                        master:   A---B----C--------------------------G---H
+                                            \                       /
+llamada: fusiones-sin-conflicto:             D---E---F-------------/
+                                                (merge sin conflicto)
+
+llamada: fusiones-con-conflicto:     I---J
+                                      \
+                                        K---L (conflicto)
+                                       /
+master:    ---------------------------M
