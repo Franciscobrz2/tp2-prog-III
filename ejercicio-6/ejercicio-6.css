@@ -1,0 +1,28 @@
+:root{
+  --color-fondo-principal: #48494e;
+  --color-texto-principal: #e0e0e0;
+  --color-borde:rgb(83, 73, 92);
+}
+
+
+body {
+  font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif; 
+  line-height: 2; 
+  margin: 1rem;
+  background-color: var(--color-fondo-principal);
+  color: var(--color-texto-principal);
+}
+
+button{
+  color: var(--color-texto-principal);
+  border-radius: 1rem;
+  background-color: #8a2230;
+}
+
+.rojo{
+  color: red;
+}
+
+.verde{
+  color: green;
+}
